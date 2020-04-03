@@ -1,0 +1,73 @@
+type 1.0 
+dynamicOn 0.0 
+n_dynamicOn 1900 
+n_per_show 10.0 
+turn_start 0.0 
+n_turns 2000 
+n_bunches 630 
+n_fill 1000 
+n_q_ramp 2000 
+n_detune_start 1000 
+n_detune_ramp 3000 
+n_detune_ramp_tot 3000 
+n_I_ramp_start 1000 
+n_I_ramp_end 3000 
+mainRF 0.0 
+main_detune 0.0 
+detune_slow_factor 1.0 
+step_store 1000 
+R 610.1754 
+GMTSQ 961.0 
+Gamma 19600.0 
+Prad 9994571.44212 
+t_rad_long 0.03555 
+Ek_damp 500000000.0 
+nBeam 1.0 
+beam_shift 94.0 
+Npar 1 
+NperBunch 343813257609.0 
+Charge 3.4e-08 
+N_bins 33 
+fill_step 12.0 
+siglong 11.368 
+A 1.0 
+nRF 2.0 
+nRF1 2.0 
+nRFc 0.0 
+nRF2 0.0 
+nHOM 0.0 
+nCav 9 5 
+h 7560.0 7560.0 
+V0 300000.0 30000.0 
+TV0 0.0 0.0 
+Phi0 90.0 0.0 
+TP0 0.0 0.0 
+RoQ 657 365 
+QL 329321.855491 329321.855491 
+Vref_I 52675398.0622 -29264110.0346 
+Vref_Q -2370878.83445 -1317154.90803 
+Iref_I 0.486913592849 -0.486913592849 
+Iref_Q -0.0219156033739 -0.0219156033739 
+I_I_ref_ini 0.243456796425 -0.243456796425 
+I_I_ref_final 0.486913592849 -0.486913592849 
+I_Q_ref_ini -0.0109578016869 -0.0109578016869 
+I_Q_ref_final -0.0219156033739 -0.0219156033739 
+fa 591000000.0 591000000.0 
+phia -90.0 0.0 
+n_ramp 2000.0 0.0 
+amplitude 1.0 1.0 
+detune 0.0 0.0 
+detune_ini 0.0 0.0 
+detune_mid -9970.53659004 9970.87292635 
+detune_final -19941.0731801 19941.7458527 
+PA_cap 1.0 1.0 
+delay 11550.0 11550.0 
+n_fb_on 50.0 50.0 
+gII 0.0 0.0 
+gQQ 0.0 0.0 
+gIQ 0.0 0.0 
+gQI 0.0 0.0 
+gIIi 0.0 0.0 
+gQQi 0.0 0.0 
+gIQi 0.0 0.0 
+gQIi 0.0 0.0 
