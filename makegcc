@@ -1,0 +1,2 @@
+testmake: ./src/main_gcc.cpp
+	g++ ./src/main_gcc.cpp -o APESGCC -fopenmp -std=c++17 -O3 `gsl-config --cflags --libs`
